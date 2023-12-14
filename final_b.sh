@@ -1,1 +1,1 @@
-$cat [final_a.sh]
+$cat gisc605-final/final_a.sh
